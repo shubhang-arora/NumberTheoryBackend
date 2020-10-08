@@ -1,0 +1,28 @@
+[
+  {
+    "type": "checkbox",
+    "name": "Checkbox",
+    "id": 1,
+    "description": "Value 1 description"
+  },
+  {
+    "type": "dropdown",
+    "name": "Dropdown",
+    "values": ["Option 1", "Option 2"],
+    "id": 2,
+    "description": "Value 2 description"
+  },
+  {
+    "type": "input",
+    "name": "Text Input",
+    "id": 3,
+    "description": "Value 3 description"
+  },
+  {
+    "type": "radio",
+    "name": "Radio",
+    "values": ["Yes", "No"],
+    "id": 4,
+    "description": "Value 4 description"
+  }
+]
